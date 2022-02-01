@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class add {
 
@@ -15,4 +16,4 @@ public class add {
         sum = num1 + num2;
         System.out.println("Sum of these numbers: "+sum);
     }
-}
+
